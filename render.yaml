@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: thunder-xi-fantasy
+    runtime: node
+    buildCommand: npm install && npm rebuild better-sqlite3
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: DEADLINE
+        value: 2026-03-28T14:00:00.000Z
+      - key: TWILIO_ACCOUNT_SID
+        sync: false
+      - key: TWILIO_AUTH_TOKEN
+        sync: false
+      - key: TWILIO_PHONE_NUMBER
+        sync: false

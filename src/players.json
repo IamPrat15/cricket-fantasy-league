@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Ramakrishna Ghosh",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Urvil Patel",
+    "team": "CSK",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Ajay Mandal",
+    "team": "DD",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Sahil Parakh",
+    "team": "DD",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Nishant Sindhu",
+    "team": "GT",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Manav Suthar",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Prithviraj Yarra",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Prashant Solanki",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Himmat Singh",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Naman Tiwari",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Ashwani Kumar",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Raghu Sharma",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Pyla Avinash",
+    "team": "PBKS",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Praveen Dubey",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Kanishk Chouhan",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Vihaan Malhotra",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Satvik Deswal",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Aman Rao",
+    "team": "RR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Brijesh Sharma",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Vignesh Puthur",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Krains Fuletra",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Shivang Kumar",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Praful Hinge",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 50
+  },
+  {
+    "name": "Aman Khan",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.40 Cr",
+    "points": 55
+  },
+  {
+    "name": "Madhav Tiwari",
+    "team": "DD",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Vipraj Nigam",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Tripurana Vijay",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Sarthak Ranjan",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Daksh Kamra",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "A. Raghuwanshi",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "M Manimaran",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Digvesh Rathi",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Suryansh Shedge",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Musheer Khan",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Harnoor Singh",
+    "team": "PBKS",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Vishal Nishad",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Vicky Ostwal",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Abhinandan Singh",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Yash Raj Punja",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Harsh Dubey",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Aniket Verma",
+    "team": "SRH",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "R. Smaran",
+    "team": "SRH",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Sakib Hussain",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Onkar Tarmale",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 55
+  },
+  {
+    "name": "Karun Nair",
+    "team": "DD",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.50 Cr",
+    "points": 60
+  },
+  {
+    "name": "Arshin Kulkarni",
+    "team": "LSG",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Arjun Tendulkar",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Akash Singh",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Naman Dhir",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Yash Thakur",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Swapnil Singh",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Yudhvir Singh",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Amit Kumar",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 60
+  },
+  {
+    "name": "Mukul Choudhary",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 65
+  },
+  {
+    "name": "Mayank Rawat",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 65
+  },
+  {
+    "name": "Danish Malewar",
+    "team": "MI",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 65
+  },
+  {
+    "name": "Mohd Izhar",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 65
+  },
+  {
+    "name": "Vijaykumar Vyshak",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 65
+  },
+  {
+    "name": "Dasun Shanaka",
+    "team": "RR",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b90.50 Cr",
+    "points": 65
+  },
+  {
+    "name": "Akeal Hosein",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 70
+  },
+  {
+    "name": "Kartik Sharma",
+    "team": "CSK",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b914.20 Cr",
+    "points": 70
+  },
+  {
+    "name": "Abishek Porel",
+    "team": "DD",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 70
+  },
+  {
+    "name": "Kumar Kushagra",
+    "team": "GT",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b90.65 Cr",
+    "points": 70
+  },
+  {
+    "name": "Anukul Roy",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.40 Cr",
+    "points": 70
+  },
+  {
+    "name": "Tejasvi Singh",
+    "team": "KKR",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b93.00 Cr",
+    "points": 70
+  },
+  {
+    "name": "Atharva Ankolekar",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 70
+  },
+  {
+    "name": "Corbin Bosch",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b90.30 Cr",
+    "points": 70
+  },
+  {
+    "name": "Rasikh Salam",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 70
+  },
+  {
+    "name": "Kwena Maphaka",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.30 Cr",
+    "points": 70
+  },
+  {
+    "name": "Donovan Ferreira",
+    "team": "RR",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b91.00 Cr",
+    "points": 70
+  },
+  {
+    "name": "Zeeshan Ansari",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.40 Cr",
+    "points": 70
+  },
+  {
+    "name": "David Payne",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 70
+  },
+  {
+    "name": "Gurjapneet Singh",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b92.20 Cr",
+    "points": 75
+  },
+  {
+    "name": "Auqib Nabi",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b98.40 Cr",
+    "points": 75
+  },
+  {
+    "name": "Ashok Sharma",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.90 Cr",
+    "points": 75
+  },
+  {
+    "name": "Gurnoor Brar",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.30 Cr",
+    "points": 75
+  },
+  {
+    "name": "Anuj Rawat",
+    "team": "GT",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 75
+  },
+  {
+    "name": "Prince Yadav",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 75
+  },
+  {
+    "name": "Raj Bawa",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 75
+  },
+  {
+    "name": "Mitchell Owen",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b90.30 Cr",
+    "points": 75
+  },
+  {
+    "name": "Priyansh Arya",
+    "team": "PBKS",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 75
+  },
+  {
+    "name": "Jordan Cox",
+    "team": "RCB",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 75
+  },
+  {
+    "name": "Tushar Deshpande",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 75
+  },
+  {
+    "name": "Sushant Mishra",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.90 Cr",
+    "points": 75
+  },
+  {
+    "name": "Kuldeep Sen",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 75
+  },
+  {
+    "name": "Ravi Singh",
+    "team": "RR",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b90.95 Cr",
+    "points": 75
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.00 Cr",
+    "points": 75
+  },
+  {
+    "name": "Jamie Overton",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 80
+  },
+  {
+    "name": "Zak Foulkes",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 80
+  },
+  {
+    "name": "Matt Henry",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Shreyas Gopal",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 80
+  },
+  {
+    "name": "Sameer Rizvi",
+    "team": "DD",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b92.80 Cr",
+    "points": 80
+  },
+  {
+    "name": "Sai Kishore",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b92.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Jayant Yadav",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 80
+  },
+  {
+    "name": "Kartik Tyagi",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 80
+  },
+  {
+    "name": "Ayush Badoni",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b91.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Mayank Yadav",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b911.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Shashank Singh",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b95.50 Cr",
+    "points": 80
+  },
+  {
+    "name": "Cooper Connolly",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b93.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Yash Dayal",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b95.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Nuwan Thushara",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b91.25 Cr",
+    "points": 80
+  },
+  {
+    "name": "L. Pretorius",
+    "team": "RR",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b91.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Brydon Carse",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b91.00 Cr",
+    "points": 80
+  },
+  {
+    "name": "Salil Arora",
+    "team": "SRH",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b91.50 Cr",
+    "points": 80
+  },
+  {
+    "name": "Anshul Kamboj",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b93.40 Cr",
+    "points": 85
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "team": "CSK",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Mukesh Choudhary",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 85
+  },
+  {
+    "name": "Ashutosh Sharma",
+    "team": "DD",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Pathum Nissanka",
+    "team": "DD",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b94.00 Cr",
+    "points": 85
+  },
+  {
+    "name": "Prithvi Shaw",
+    "team": "DD",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b93.00 Cr",
+    "points": 85
+  },
+  {
+    "name": "T. Natarajan",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b910.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "D. Chameera",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Arshad Khan",
+    "team": "GT",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b91.30 Cr",
+    "points": 85
+  },
+  {
+    "name": "Ishant Sharma",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Rovman Powell",
+    "team": "KKR",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 85
+  },
+  {
+    "name": "Vaibhav Arora",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.80 Cr",
+    "points": 85
+  },
+  {
+    "name": "Shahbaz Ahmed",
+    "team": "LSG",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b93.40 Cr",
+    "points": 85
+  },
+  {
+    "name": "Matthew Breetzke",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b90.30 Cr",
+    "points": 85
+  },
+  {
+    "name": "Mayank Markande",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 85
+  },
+  {
+    "name": "Marco Jansen",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b97.00 Cr",
+    "points": 85
+  },
+  {
+    "name": "Harpreet Brar",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.50 Cr",
+    "points": 85
+  },
+  {
+    "name": "Xavier Bartlett",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.30 Cr",
+    "points": 85
+  },
+  {
+    "name": "Vishnu Vinod",
+    "team": "PBKS",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 85
+  },
+  {
+    "name": "Mangesh Yadav",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b95.20 Cr",
+    "points": 85
+  },
+  {
+    "name": "Jacob Bethell",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b92.60 Cr",
+    "points": 85
+  },
+  {
+    "name": "Jacob Duffy",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Sandeep Sharma",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 85
+  },
+  {
+    "name": "Shivam Mavi",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Kamindu Mendis",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 85
+  },
+  {
+    "name": "Eshan Malinga",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b91.20 Cr",
+    "points": 85
+  },
+  {
+    "name": "Matthew Short",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 90
+  },
+  {
+    "name": "Spencer Johnson",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 90
+  },
+  {
+    "name": "Rahul Chahar",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "MS Dhoni",
+    "team": "CSK",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Lungi Ngidi",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Kyle Jamieson",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 90
+  },
+  {
+    "name": "Mukesh Kumar",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 90
+  },
+  {
+    "name": "M Shahrukh Khan",
+    "team": "GT",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "team": "KKR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b91.50 Cr",
+    "points": 90
+  },
+  {
+    "name": "Mohsin Khan",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Robin Minz",
+    "team": "MI",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 90
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b92.40 Cr",
+    "points": 90
+  },
+  {
+    "name": "Nehal Wadhera",
+    "team": "PBKS",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b94.20 Cr",
+    "points": 90
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "team": "PBKS",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b910.75 Cr",
+    "points": 90
+  },
+  {
+    "name": "Suyash Sharma",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b92.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Shubham Dubey",
+    "team": "RR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 90
+  },
+  {
+    "name": "Nandre Burger",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b91.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Nitish Kumar Reddy",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b96.00 Cr",
+    "points": 90
+  },
+  {
+    "name": "Ayush Mhatre",
+    "team": "CSK",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.30 Cr",
+    "points": 95
+  },
+  {
+    "name": "Khaleel Ahmed",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b94.80 Cr",
+    "points": 95
+  },
+  {
+    "name": "Nitish Rana",
+    "team": "DD",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b93.20 Cr",
+    "points": 95
+  },
+  {
+    "name": "Mitchell Starc",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b911.75 Cr",
+    "points": 95
+  },
+  {
+    "name": "Rahul Tewatia",
+    "team": "GT",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Luke Wood",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.75 Cr",
+    "points": 95
+  },
+  {
+    "name": "Prasidh Krishna",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b99.50 Cr",
+    "points": 95
+  },
+  {
+    "name": "Ramandeep Singh",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "A. Raghuvanshi",
+    "team": "KKR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b93.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Rahul Tripathi",
+    "team": "KKR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 95
+  },
+  {
+    "name": "Manish Pandey",
+    "team": "KKR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 95
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b99.20 Cr",
+    "points": 95
+  },
+  {
+    "name": "Umran Malik",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b90.75 Cr",
+    "points": 95
+  },
+  {
+    "name": "Akash Deep",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b91.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Tim Seifert",
+    "team": "KKR",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 95
+  },
+  {
+    "name": "Abdul Samad",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b94.20 Cr",
+    "points": 95
+  },
+  {
+    "name": "Avesh Khan",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b99.75 Cr",
+    "points": 95
+  },
+  {
+    "name": "Mitchell Santner",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Will Jacks",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b95.25 Cr",
+    "points": 95
+  },
+  {
+    "name": "Deepak Chahar",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b94.50 Cr",
+    "points": 95
+  },
+  {
+    "name": "Allah Ghazanfar",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b90.30 Cr",
+    "points": 95
+  },
+  {
+    "name": "Romario Shepherd",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b91.50 Cr",
+    "points": 95
+  },
+  {
+    "name": "Venkatesh Iyer",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b97.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "team": "RCB",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b92.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Jitesh Sharma",
+    "team": "RCB",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b911.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b97.20 Cr",
+    "points": 95
+  },
+  {
+    "name": "Adam Milne",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b92.40 Cr",
+    "points": 95
+  },
+  {
+    "name": "Harshal Patel",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b98.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Jack Edwards",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b93.00 Cr",
+    "points": 95
+  },
+  {
+    "name": "Prashant Veer",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b914.20 Cr",
+    "points": 100
+  },
+  {
+    "name": "Dewald Brevis",
+    "team": "CSK",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b92.20 Cr",
+    "points": 100
+  },
+  {
+    "name": "Noor Ahmad",
+    "team": "CSK",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b910.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Axar Patel",
+    "team": "DD",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b916.50 Cr",
+    "points": 100
+  },
+  {
+    "name": "Jason Holder",
+    "team": "GT",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b97.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Glenn Phillips",
+    "team": "GT",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Washington Sundar",
+    "team": "GT",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b93.20 Cr",
+    "points": 100
+  },
+  {
+    "name": "Mohammed Siraj",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b912.25 Cr",
+    "points": 100
+  },
+  {
+    "name": "Kagiso Rabada",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b910.75 Cr",
+    "points": 100
+  },
+  {
+    "name": "Tom Banton",
+    "team": "GT",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Rachin Ravindra",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "M. Pathirana",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b918.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Harshit Rana",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b94.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Finn Allen",
+    "team": "KKR",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Mitchell Marsh",
+    "team": "LSG",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b97.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "W. Hasaranga",
+    "team": "LSG",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Josh Inglis",
+    "team": "LSG",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b98.60 Cr",
+    "points": 100
+  },
+  {
+    "name": "Shardul Thakur",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "S. Rutherford",
+    "team": "MI",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b92.60 Cr",
+    "points": 100
+  },
+  {
+    "name": "Ryan Rickelton",
+    "team": "MI",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b91.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Ben Dwarshuis",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b94.40 Cr",
+    "points": 100
+  },
+  {
+    "name": "Arshdeep Singh",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b918.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b918.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Lockie Ferguson",
+    "team": "PBKS",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Krunal Pandya",
+    "team": "RCB",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b94.50 Cr",
+    "points": 100
+  },
+  {
+    "name": "Rajat Patidar",
+    "team": "RCB",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b911.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Phil Salt",
+    "team": "RCB",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b911.50 Cr",
+    "points": 100
+  },
+  {
+    "name": "Riyan Parag",
+    "team": "RR",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b914.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Jofra Archer",
+    "team": "RR",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b912.50 Cr",
+    "points": 100
+  },
+  {
+    "name": "Dhruv Jurel",
+    "team": "RR",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b914.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Liam Livingstone",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b913.00 Cr",
+    "points": 100
+  },
+  {
+    "name": "Shivam Dube",
+    "team": "CSK",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b912.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "team": "CSK",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b918.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "team": "DD",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b913.25 Cr",
+    "points": 105
+  },
+  {
+    "name": "Tristan Stubbs",
+    "team": "DD",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b910.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Shubman Gill",
+    "team": "GT",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b916.50 Cr",
+    "points": 105
+  },
+  {
+    "name": "Sai Sudharsan",
+    "team": "GT",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b98.50 Cr",
+    "points": 105
+  },
+  {
+    "name": "Rinku Singh",
+    "team": "KKR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b913.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "V. Chakravarthy",
+    "team": "KKR",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b912.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Aiden Markram",
+    "team": "LSG",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Anrich Nortje",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b96.50 Cr",
+    "points": 105
+  },
+  {
+    "name": "Mohammed Shami",
+    "team": "LSG",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b910.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Nicholas Pooran",
+    "team": "LSG",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b921.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Tilak Varma",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b98.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Trent Boult",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b97.50 Cr",
+    "points": 105
+  },
+  {
+    "name": "Quinton de Kock",
+    "team": "MI",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b91.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Marcus Stoinis",
+    "team": "PBKS",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b911.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Tim David",
+    "team": "RCB",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b93.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Josh Hazlewood",
+    "team": "RCB",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b912.50 Cr",
+    "points": 105
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "team": "RR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b918.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "team": "RR",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b912.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "V. Suryavanshi",
+    "team": "RR",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b91.10 Cr",
+    "points": 105
+  },
+  {
+    "name": "Abhishek Sharma",
+    "team": "SRH",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b914.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Pat Cummins",
+    "team": "SRH",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b918.00 Cr",
+    "points": 105
+  },
+  {
+    "name": "Sanju Samson",
+    "team": "CSK",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b918.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "David Miller",
+    "team": "DD",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b92.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "KL Rahul",
+    "team": "DD",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b914.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Rashid Khan",
+    "team": "GT",
+    "type": "Bowler",
+    "nation": "Overseas",
+    "price": "\u20b918.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Jos Buttler",
+    "team": "GT",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b915.75 Cr",
+    "points": 110
+  },
+  {
+    "name": "Cameron Green",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b925.20 Cr",
+    "points": 110
+  },
+  {
+    "name": "Sunil Narine",
+    "team": "KKR",
+    "type": "All-Rounder",
+    "nation": "Overseas",
+    "price": "\u20b912.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Rishabh Pant",
+    "team": "LSG",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b927.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "MI",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b916.35 Cr",
+    "points": 110
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "team": "MI",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b916.35 Cr",
+    "points": 110
+  },
+  {
+    "name": "Rohit Sharma",
+    "team": "MI",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b916.30 Cr",
+    "points": 110
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "team": "MI",
+    "type": "Bowler",
+    "nation": "Indian",
+    "price": "\u20b918.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Shreyas Iyer",
+    "team": "PBKS",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b926.75 Cr",
+    "points": 110
+  },
+  {
+    "name": "Virat Kohli",
+    "team": "RCB",
+    "type": "Batter",
+    "nation": "Indian",
+    "price": "\u20b921.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "team": "RR",
+    "type": "All-Rounder",
+    "nation": "Indian",
+    "price": "\u20b914.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Travis Head",
+    "team": "SRH",
+    "type": "Batter",
+    "nation": "Overseas",
+    "price": "\u20b914.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "team": "SRH",
+    "type": "WK-Batter",
+    "nation": "Overseas",
+    "price": "\u20b923.00 Cr",
+    "points": 110
+  },
+  {
+    "name": "Ishan Kishan",
+    "team": "SRH",
+    "type": "WK-Batter",
+    "nation": "Indian",
+    "price": "\u20b911.25 Cr",
+    "points": 110
+  }
+]
