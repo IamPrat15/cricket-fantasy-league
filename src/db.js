@@ -29,8 +29,6 @@ function initSchema() {
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       user_id INTEGER NOT NULL REFERENCES users(id),
       team_name TEXT NOT NULL,
-      captain TEXT,
-      vice_captain TEXT,
       total_points INTEGER DEFAULT 0,
       submitted_at TEXT DEFAULT (datetime('now')),
       UNIQUE(user_id)
@@ -50,7 +48,15 @@ function initSchema() {
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       player_name TEXT UNIQUE NOT NULL,
       actual_score INTEGER DEFAULT 0,
+      matches_played INTEGER DEFAULT 0,
       updated_at TEXT DEFAULT (datetime('now'))
+    );
+
+    CREATE TABLE IF NOT EXISTS match_log (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      match_id TEXT NOT NULL,
+      match_title TEXT,
+      synced_at TEXT DEFAULT (datetime('now'))
     );
   `);
 }
