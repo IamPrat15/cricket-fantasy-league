@@ -194,28 +194,52 @@
 <!-- ═══ PAGE: LOGIN ═══ -->
 <div class="page" id="page-login">
   <div class="card">
-    <div class="card-title">Login / Sign Up</div>
-    <div class="card-sub">Enter your mobile number to receive an OTP</div>
+    <div class="card-title">Welcome 🏏</div>
+    <div class="card-sub">Login to your account or create a new one</div>
     <div id="login-alert"></div>
-    <div id="step-mobile">
-      <div class="form-group">
-        <label>Your Name</label>
-        <input type="text" id="login-name" placeholder="Full name" maxlength="50"/>
-      </div>
-      <div class="form-group">
-        <label>Mobile Number</label>
-        <input type="tel" id="login-mobile" placeholder="+91 98765 43210" maxlength="16"/>
-      </div>
-      <button class="btn" id="btn-send-otp" onclick="sendOtp()">Send OTP</button>
+    <div class="tabs" style="margin-bottom:1.25rem">
+      <div class="tab active" id="tab-login" onclick="switchAuthTab('login')">Login</div>
+      <div class="tab" id="tab-register" onclick="switchAuthTab('register')">Sign Up</div>
     </div>
-    <div id="step-otp" class="hidden">
-      <div class="alert alert-info" id="otp-info"></div>
+
+    <!-- LOGIN FORM -->
+    <div id="form-login">
       <div class="form-group">
-        <label>Enter 6-digit OTP</label>
-        <input type="number" id="login-otp" placeholder="123456" maxlength="6"/>
+        <label>Username</label>
+        <input type="text" id="login-username" placeholder="your_username" maxlength="30" autocomplete="username"/>
       </div>
-      <button class="btn" onclick="verifyOtp()">Verify & Continue</button>
-      <button class="btn btn-outline" style="margin-top:8px" onclick="document.getElementById('step-otp').classList.add('hidden');document.getElementById('step-mobile').classList.remove('hidden')">← Change Number</button>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="login-password" placeholder="••••••••" autocomplete="current-password"
+          onkeydown="if(event.key==='Enter') doLogin()"/>
+      </div>
+      <button class="btn" onclick="doLogin()">Login →</button>
+    </div>
+
+    <!-- REGISTER FORM -->
+    <div id="form-register" class="hidden">
+      <div class="form-group">
+        <label>Full Name *</label>
+        <input type="text" id="reg-name" placeholder="Pratik Shah" maxlength="50"/>
+      </div>
+      <div class="form-group">
+        <label>Username * <span style="font-size:11px;color:var(--gray)">(letters, numbers, underscore only)</span></label>
+        <input type="text" id="reg-username" placeholder="pratik_shah" maxlength="30" autocomplete="username"/>
+      </div>
+      <div class="form-group">
+        <label>Password * <span style="font-size:11px;color:var(--gray)">(min 6 characters)</span></label>
+        <input type="password" id="reg-password" placeholder="••••••••" autocomplete="new-password"/>
+      </div>
+      <div class="form-group">
+        <label>Confirm Password *</label>
+        <input type="password" id="reg-password2" placeholder="••••••••" autocomplete="new-password"
+          onkeydown="if(event.key==='Enter') doRegister()"/>
+      </div>
+      <div class="form-group">
+        <label>Mobile Number <span style="font-size:11px;color:var(--gray)">(optional)</span></label>
+        <input type="tel" id="reg-mobile" placeholder="+91 98765 43210" maxlength="16"/>
+      </div>
+      <button class="btn" onclick="doRegister()">Create Account →</button>
     </div>
   </div>
   <div class="card" style="text-align:center;padding:1rem">
@@ -488,7 +512,7 @@ function updateNav() {
   document.getElementById('nav-admin').classList.toggle('hidden', !isAdmin);
   document.getElementById('nav-user-name').classList.toggle('hidden', !loggedIn);
   if (loggedIn && currentUser) {
-    document.getElementById('nav-user-name').textContent = currentUser.name || currentUser.mobile;
+    document.getElementById('nav-user-name').textContent = currentUser.name || currentUser.username;
   }
   document.getElementById('home-cta').textContent = loggedIn ? 'My Team →' : 'Get Started →';
   document.getElementById('home-cta').onclick = loggedIn ? () => showPage('team-builder') : () => showPage('login');
@@ -503,61 +527,70 @@ function showPage(page) {
 }
 
 // ═══════════════════════════════════════════════════════════
-// AUTH
+// AUTH — Username / Password
 // ═══════════════════════════════════════════════════════════
 function showAlert(id, msg, type = 'err') {
   const el = document.getElementById(id);
   if (!el) return;
   el.innerHTML = `<div class="alert alert-${type}">${msg}</div>`;
-  setTimeout(() => { el.innerHTML = ''; }, 5000);
+  setTimeout(() => { el.innerHTML = ''; }, 6000);
 }
 
-async function sendOtp() {
-  const mobile = document.getElementById('login-mobile').value.trim();
-  const name = document.getElementById('login-name').value.trim();
-  if (!mobile) return showAlert('login-alert', 'Mobile number required');
-  const btn = document.getElementById('btn-send-otp');
-  btn.disabled = true;
-  btn.innerHTML = '<span class="spinner"></span>Sending...';
+function switchAuthTab(tab) {
+  const isLogin = tab === 'login';
+  document.getElementById('tab-login').classList.toggle('active', isLogin);
+  document.getElementById('tab-register').classList.toggle('active', !isLogin);
+  document.getElementById('form-login').classList.toggle('hidden', !isLogin);
+  document.getElementById('form-register').classList.toggle('hidden', isLogin);
+  document.getElementById('login-alert').innerHTML = '';
+}
+
+async function doLogin() {
+  const username = document.getElementById('login-username').value.trim();
+  const password = document.getElementById('login-password').value;
+  if (!username || !password) return showAlert('login-alert', 'Username and password are required');
   try {
-    const r = await fetch('/api/auth/send-otp', {
+    const r = await fetch('/api/auth/login', {
       method: 'POST', headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({ mobile })
+      body: JSON.stringify({ username, password })
     });
     const d = await r.json();
     if (!r.ok) throw new Error(d.error);
-    document.getElementById('otp-info').textContent = `OTP sent to ${mobile}. Check your SMS.`;
-    document.getElementById('step-mobile').classList.add('hidden');
-    document.getElementById('step-otp').classList.remove('hidden');
-  } catch(e) {
-    showAlert('login-alert', e.message);
-  } finally {
-    btn.disabled = false; btn.innerHTML = 'Send OTP';
-  }
-}
-
-async function verifyOtp() {
-  const mobile = document.getElementById('login-mobile').value.trim();
-  const name = document.getElementById('login-name').value.trim();
-  const code = document.getElementById('login-otp').value.trim();
-  if (!code) return showAlert('login-alert', 'Enter OTP');
-  try {
-    const r = await fetch('/api/auth/verify-otp', {
-      method: 'POST', headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({ mobile, code, name })
-    });
-    const d = await r.json();
-    if (!r.ok) throw new Error(d.error);
-    token = d.token;
-    currentUser = d.user;
-    localStorage.setItem('token', token);
-    localStorage.setItem('user', JSON.stringify(currentUser));
-    isAdmin = false;
-    localStorage.removeItem('isAdmin');
-    updateNav();
-    await checkExistingTeam();
-    showPage('team-builder');
+    await onLoginSuccess(d);
   } catch(e) { showAlert('login-alert', e.message); }
+}
+
+async function doRegister() {
+  const name = document.getElementById('reg-name').value.trim();
+  const username = document.getElementById('reg-username').value.trim();
+  const password = document.getElementById('reg-password').value;
+  const password2 = document.getElementById('reg-password2').value;
+  const mobile = document.getElementById('reg-mobile').value.trim();
+  if (!name) return showAlert('login-alert', 'Full name is required');
+  if (!username) return showAlert('login-alert', 'Username is required');
+  if (password !== password2) return showAlert('login-alert', 'Passwords do not match');
+  if (password.length < 6) return showAlert('login-alert', 'Password must be at least 6 characters');
+  try {
+    const r = await fetch('/api/auth/register', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ username, password, name, mobile })
+    });
+    const d = await r.json();
+    if (!r.ok) throw new Error(d.error);
+    await onLoginSuccess(d);
+  } catch(e) { showAlert('login-alert', e.message); }
+}
+
+async function onLoginSuccess(d) {
+  token = d.token;
+  currentUser = d.user;
+  isAdmin = false;
+  localStorage.setItem('token', token);
+  localStorage.setItem('user', JSON.stringify(currentUser));
+  localStorage.removeItem('isAdmin');
+  updateNav();
+  await checkExistingTeam();
+  showPage('team-builder');
 }
 
 async function adminLogin() {
@@ -851,7 +884,7 @@ async function loadAdminData() {
         <div style="display:flex;justify-content:space-between;align-items:start;margin-bottom:.5rem">
           <div>
             <b>${t.team_name}</b>
-            <div style="font-size:12px;color:var(--gray)">${t.user_name||''} · ${t.mobile} · ${new Date(t.submitted_at).toLocaleString('en-IN')}</div>
+            <div style="font-size:12px;color:var(--gray)">${t.user_name||''} (@${t.username||''}) · ${new Date(t.submitted_at).toLocaleString('en-IN')}</div>
           </div>
           <b style="color:var(--green)">${t.total_points} pts</b>
         </div>

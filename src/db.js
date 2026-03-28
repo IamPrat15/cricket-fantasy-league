@@ -2,7 +2,6 @@ const Database = require('better-sqlite3');
 const path = require('path');
 
 const DB_PATH = process.env.DB_PATH || path.join(__dirname, '..', 'fantasy.db');
-
 let db;
 
 function getDb() {
@@ -19,18 +18,10 @@ function initSchema() {
   db.exec(`
     CREATE TABLE IF NOT EXISTS users (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
-      mobile TEXT UNIQUE NOT NULL,
+      username TEXT UNIQUE NOT NULL,
+      password_hash TEXT NOT NULL,
       name TEXT,
-      verified INTEGER DEFAULT 0,
-      created_at TEXT DEFAULT (datetime('now'))
-    );
-
-    CREATE TABLE IF NOT EXISTS otp_codes (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      mobile TEXT NOT NULL,
-      code TEXT NOT NULL,
-      expires_at TEXT NOT NULL,
-      used INTEGER DEFAULT 0,
+      mobile TEXT,
       created_at TEXT DEFAULT (datetime('now'))
     );
 
